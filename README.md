@@ -47,12 +47,3 @@ make
 ![image-20230612233531789](C:\Users\49555\AppData\Roaming\Typora\typora-user-images\image-20230612233531789.png)
 
 ![image-20230612233750012](C:\Users\49555\AppData\Roaming\Typora\typora-user-images\image-20230612233750012.png)
-
-
-
-
-
-
-
-
-
